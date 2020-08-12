@@ -100,7 +100,7 @@ body{
 .info {
   display: grid;
   grid-template-columns: 400px 400px;
-  grid-column-gap: 50px;
+  grid-column-gap: 150px;
   align-self: center;
 }
 .сol1{
